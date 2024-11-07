@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and more. It's designed to provide an interactive and user-friendly experience, giving visitors an overview of my capabilities as a Full Stack Web Developer and Designer.
 
-🔗 **[Live Preview](portfoliosubha.vercel.app)**
+🔗 **[Live Preview](https://portfoliosubha.vercel.app/)**
 
 ---
 
