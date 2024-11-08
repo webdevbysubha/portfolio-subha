@@ -23,7 +23,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 - **Education Section** 🎓: Lists educational qualifications with dates and details.
 - **Skills Section** 💼: Showcases proficiency in various technologies, including web and design tools.
 - **Project Section** 📂: Displays my projects with descriptions and links to live demos and GitHub repos.
-- **Contact Section** 📬: Allows visitors to reach out via email or social media.
+- **Contact Section** 📬: Fully working. Allows users to reach out via email or social media.
 - **Responsive Design** 📱: Fully responsive, adapting seamlessly to all screen sizes.
 - **Motivational Quotes** 🌟: Adds an inspiring touch with handpicked quotes.
 
